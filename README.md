@@ -6,11 +6,11 @@ Instaladores oficiais do **ADE DT** (Agent Development Environment Desktop Tool)
 
 | Sistema | Arquivo |
 |---------|---------|
-| Windows | `ADE-DT-Setup.exe` |
-| macOS (Apple Silicon) | `ADE-DT-mac-arm64.dmg` |
-| macOS (Intel) | `ADE-DT-mac-x64.dmg` |
-| Linux (qualquer distro) | `ADE-DT.AppImage` |
-| Linux (Debian/Ubuntu) | `ADE-DT.deb` |
+| Windows | `ADE-DT-Setup-<versão>.exe` |
+| macOS (Apple Silicon, M1 ou mais novo) | `ADE-DT-<versão>-arm64.dmg` |
+| macOS (Intel) | `ADE-DT-<versão>.dmg` |
+| Linux (qualquer distro) | `ADE-DT-<versão>.AppImage` |
+| Linux (Debian/Ubuntu) | `ade-dt_<versão>_amd64.deb` |
 
 Este repositório contém apenas os instaladores publicados como releases. Não há código-fonte aqui.
 
